@@ -4,7 +4,7 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
 /**
- * 加密
+ * 加密 
  */
 public final class MD5Util {
 	private static final char[] hexDigits = { 
