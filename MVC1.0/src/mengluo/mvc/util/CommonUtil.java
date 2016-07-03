@@ -10,7 +10,6 @@ import java.util.List;
 
 /**
  * 通用工具类
- *
  */
 public final class CommonUtil {
 	
