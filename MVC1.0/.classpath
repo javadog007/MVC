@@ -19,5 +19,9 @@
 			<attribute name="owner.project.facets" value="jst.web.jstl"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="D:/DIYMVC/Gson/gson-1.5.jar"/>
+	<classpathentry kind="lib" path="D:/DIYMVC/Gson/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="D:/DIYMVC/Gson/slf4j-api-1.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/DIYMVC/Gson/slf4j-log4j12-1.6.1.jar"/>
 	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
 </classpath>
